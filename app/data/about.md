@@ -1,6 +1,6 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on building the most accurate models for pricing and valuating fine art. My primary job functions are as a data scientist and software engineer.
+I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on building the most accurate models for pricing fine art. My primary job functions are as a data scientist and software engineer.
 <br>
 I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusively, space, and in applying machine learning to large data sets. I may even be available for pro-bono work depending on the time commitment and the project. If you'd like to meet, I am based in New York but travel to Palo Alto frequently.
 <br><br>
@@ -47,8 +47,8 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - Space
 - Summer
 - [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils
-- NPR podcasts
+- Colored pencils (Faber-Castell Polychromos)
+- Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), and others.)
 - [Obscure indie music](/music)
 - [Good design](/)
 - Photography
@@ -64,7 +64,7 @@ Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 
 - In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
 
-- In 2018, I plan to visit: Australia, Taiwan, Indonesia, Nepal, and Norway.
+- In 2018, I visited: Canada, Italy, France, Israel, and England. I plan to visit: Australia and Japan.
 
 - I am an Oregon Trail II enthusiast.
 
