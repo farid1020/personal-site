@@ -39,7 +39,7 @@
     "@octokit/rest": "^15.17.0",
     "autoprefixer": "^9.3.1",
     "axios": "^0.18.0",
-    "babel-loader": "^8.0.4",
+    "babel-loader": "8.0.4",
     "babel-plugin-add-module-exports": "^1.0.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.20",
     "body-parser": "^1.18.3",
